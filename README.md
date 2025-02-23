@@ -1,1 +1,1 @@
-# notebook_nm
+# Notebooks for numerical methods
